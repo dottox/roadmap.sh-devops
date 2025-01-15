@@ -19,5 +19,4 @@ A script to analyse basic server performance stats.
     ```
     ./server-stats.sh
     ```
-This project is part of [roadmap.sh](https://roadmap.sh) DevOps projects.
-Project URL: https://roadmap.sh/projects/server-stats
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
