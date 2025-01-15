@@ -2,7 +2,7 @@
 A script to analyse basic server performance stats. 
 
 > [!IMPORTANT]
-> This script only works well in MacOS because `top` is different on Linux.
+> This script only works well on MacOS because `top` is different on Linux.
 
 ## Getting Started
 1. **Clone the repository**
