@@ -1,0 +1,307 @@
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+ [788]: Unable to spawn ddt: 3 (No such process)
+maild [1216]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1366]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1756]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [5024]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+diskarbitrationd [635]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [650]: Unable to spawn ddt: 2 (No such file or directory)
+ [941]: Unable to spawn ddt: 3 (No such process)
+acumbrellaagent [1025]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1129]: Unable to spawn ddt: 2 (No such file or directory)
+akd [1136]: Unable to spawn ddt: 2 (No such file or directory)
+iCloudNotificationAgent [1232]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1517]: Unable to spawn ddt: 2 (No such file or directory)
+biomesyncd [5088]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+securityd [352]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [512]: Unable to spawn ddt: 2 (No such file or directory)
+ [638]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [897]: Unable to spawn ddt: 2 (No such file or directory)
+ [6362]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (10) processes
+ [623]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [768]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1401]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [3609]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+securityd [352]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [531]: Unable to spawn ddt: 2 (No such file or directory)
+ [638]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [969]: Unable to spawn ddt: 2 (No such file or directory)
+ [12787]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (10) processes
+securityd [360]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [538]: Unable to spawn ddt: 2 (No such file or directory)
+ [646]: Unable to spawn ddt: 3 (No such process)
+ [2369]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (9) processes
+ [639]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [938]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [1301]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (10) processes
+ [641]: Unable to spawn ddt: 3 (No such process)
+amsaccountsd [848]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [887]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [960]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+securityd [397]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [562]: Unable to spawn ddt: 2 (No such file or directory)
+ [692]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [960]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1281]: Unable to spawn ddt: 2 (No such file or directory)
+ [5921]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+ [641]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [931]: Unable to spawn ddt: 2 (No such file or directory)
+com.apple.Safari.SafeBrowsing.S [1479]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [5067]: Unable to spawn ddt: 2 (No such file or directory)
+pingsender [5077]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (9) processes
+ [651]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [929]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [5868]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (10) processes
+ [643]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [831]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1149]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [1443]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+securityd [352]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [511]: Unable to spawn ddt: 2 (No such file or directory)
+ [634]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [835]: Unable to spawn ddt: 2 (No such file or directory)
+ [3878]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+ [642]: Unable to spawn ddt: 3 (No such process)
+amsaccountsd [842]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [868]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1246]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [2341]: Unable to spawn ddt: 2 (No such file or directory)
+pingsender [2342]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+securityd [368]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [518]: Unable to spawn ddt: 2 (No such file or directory)
+ [653]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [1021]: Unable to spawn ddt: 2 (No such file or directory)
+ [3718]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+securityd [349]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [509]: Unable to spawn ddt: 2 (No such file or directory)
+ [612]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [854]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1283]: Unable to spawn ddt: 2 (No such file or directory)
+ [4115]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (9) processes
+ [614]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [871]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [5319]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (14) processes
+securityd [339]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [502]: Unable to spawn ddt: 2 (No such file or directory)
+ [609]: Unable to spawn ddt: 3 (No such process)
+StocksWidget [1066]: Unable to spawn ddt: 2 (No such file or directory)
+secd [1854]: Unable to spawn ddt: 2 (No such file or directory)
+ [1860]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (13) processes
+ [630]: Unable to spawn ddt: 3 (No such process)
+dnscryptproxy [1240]: Unable to spawn ddt: 2 (No such file or directory)
+installd [1322]: Unable to spawn ddt: 2 (No such file or directory)
+Software Update [1570]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (14) processes
+diskarbitrationd [582]: Unable to spawn ddt: 2 (No such file or directory)
+ [792]: Unable to spawn ddt: 3 (No such process)
+swcd [1266]: Unable to spawn ddt: 2 (No such file or directory)
+pmd [11355]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [11371]: Unable to spawn ddt: 2 (No such file or directory)
+cortex-xdr-payload [11748]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [12501]: Unable to spawn ddt: 2 (No such file or directory)
+pingsender [12731]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+securityd [356]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [525]: Unable to spawn ddt: 2 (No such file or directory)
+ [657]: Unable to spawn ddt: 3 (No such process)
+cortex-xdr-payload [700]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [785]: Unable to spawn ddt: 2 (No such file or directory)
+ [6308]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+diskarbitrationd [370]: Unable to spawn ddt: 2 (No such file or directory)
+pmd [568]: Unable to spawn ddt: 2 (No such file or directory)
+ [686]: Unable to spawn ddt: 3 (No such process)
+cortex-xdr-payload [743]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [894]: Unable to spawn ddt: 2 (No such file or directory)
+pingsender [4349]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+diskarbitrationd [380]: Unable to spawn ddt: 2 (No such file or directory)
+pmd [557]: Unable to spawn ddt: 2 (No such file or directory)
+ [697]: Unable to spawn ddt: 3 (No such process)
+cortex-xdr-payload [753]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1042]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [2700]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (14) processes
+diskarbitrationd [344]: Unable to spawn ddt: 2 (No such file or directory)
+pmd [541]: Unable to spawn ddt: 2 (No such file or directory)
+ [646]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [1085]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1420]: Unable to spawn ddt: 2 (No such file or directory)
+QLPreviewGenerationExtension [8187]: Unable to spawn ddt: 2 (No such file or directory)
+cortex-xdr-payload [8483]: Unable to spawn ddt: 2 (No such file or directory)
+corespotlightd [12868]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+securityd [365]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [533]: Unable to spawn ddt: 2 (No such file or directory)
+ [683]: Unable to spawn ddt: 3 (No such process)
+cortex-xdr-payload [715]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1003]: Unable to spawn ddt: 2 (No such file or directory)
+ [76723]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (13) processes
+diskarbitrationd [348]: Unable to spawn ddt: 2 (No such file or directory)
+pmd [546]: Unable to spawn ddt: 2 (No such file or directory)
+ [660]: Unable to spawn ddt: 3 (No such process)
+cortex-xdr-payload [739]: Unable to spawn ddt: 2 (No such file or directory)
+routined [818]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [929]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [6240]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+ [711]: Unable to spawn ddt: 3 (No such process)
+cortex-xdr-payload [779]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1041]: Unable to spawn ddt: 2 (No such file or directory)
+ [16741]: Unable to spawn ddt: 3 (No such process)
+dnscryptproxy [21014]: Unable to spawn ddt: 2 (No such file or directory)
+Microsoft Update Assistant [25112]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (16) processes
+securityd [367]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [529]: Unable to spawn ddt: 2 (No such file or directory)
+ [662]: Unable to spawn ddt: 3 (No such process)
+ [663]: Unable to spawn ddt: 3 (No such process)
+WorldClockWidget [963]: Unable to spawn ddt: 2 (No such file or directory)
+StocksWidget [967]: Unable to spawn ddt: 2 (No such file or directory)
+ControlCenterHelper [8129]: Unable to spawn ddt: 2 (No such file or directory)
+WeatherWidget [27699]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [46125]: Unable to spawn ddt: 2 (No such file or directory)
+ [58759]: Unable to spawn ddt: 3 (No such process)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (10) processes
+ [1284]: Unable to spawn ddt: 3 (No such process)
+ [1289]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [1670]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [7415]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (11) processes
+ [618]: Unable to spawn ddt: 3 (No such process)
+ [626]: Unable to spawn ddt: 3 (No such process)
+amsaccountsd [977]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [982]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [1450]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (12) processes
+ [623]: Unable to spawn ddt: 3 (No such process)
+ [640]: Unable to spawn ddt: 3 (No such process)
+duetexpertd [885]: Unable to spawn ddt: 2 (No such file or directory)
+akd [950]: Unable to spawn ddt: 2 (No such file or directory)
+amsaccountsd [1032]: Unable to spawn ddt: 2 (No such file or directory)
+dnscryptproxy [1125]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (15) processes
+securityd [351]: Unable to spawn ddt: 2 (No such file or directory)
+AppleSpell [1060]: Unable to spawn ddt: 2 (No such file or directory)
+ [31036]: Unable to spawn ddt: 3 (No such process)
+ [31037]: Unable to spawn ddt: 3 (No such process)
+installd [64701]: Unable to spawn ddt: 2 (No such file or directory)
+Software Update [69083]: Unable to spawn ddt: 2 (No such file or directory)
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (25) processes
+logd [505]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [535]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [550]: Unable to spawn ddt: 2 (No such file or directory)
+vpnagentd [788]: Unable to spawn ddt: 2 (No such file or directory)
+lsiagentd [799]: Unable to spawn ddt: 2 (No such file or directory)
+com.cisco.anyconnect.macos.acso [805]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [1390]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [1395]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [9259]: Unable to spawn ddt: 2 (No such file or directory)
+installd [12825]: Unable to spawn ddt: 2 (No such file or directory)
+ [37414]: Unable to spawn ddt: 3 (No such process)
+ [37418]: Unable to spawn ddt: 3 (No such process)
+photolibraryd [73628]: Unable to spawn ddt: 2 (No such file or directory)
+route [77749]: Unable to spawn ddt: 2 (No such file or directory)
+Timed out running heap/ddt for all (25) processes
+Saved shutdown report
+Sampling completed, generating report...
+Running heap/ddt for all (21) processes
+logd [306]: Unable to spawn ddt: 2 (No such file or directory)
+diskarbitrationd [336]: Unable to spawn ddt: 2 (No such file or directory)
+securityd [351]: Unable to spawn ddt: 2 (No such file or directory)
+WindowServer [377]: Unable to spawn ddt: 2 (No such file or directory)
+lsiagentd [530]: Unable to spawn ddt: 2 (No such file or directory)
+assistantd [730]: Unable to spawn ddt: 2 (No such file or directory)
+duetexpertd [762]: Unable to spawn ddt: 2 (No such file or directory)
+mmaintenanced [2520]: Unable to spawn ddt: 2 (No such file or directory)
+route [53334]: Unable to spawn ddt: 2 (No such file or directory)
+photolibraryd [66405]: Unable to spawn ddt: 2 (No such file or directory)
+ [70853]: Unable to spawn ddt: 3 (No such process)
+ [70854]: Unable to spawn ddt: 3 (No such process)
+Software Update [94680]: Unable to spawn ddt: 2 (No such file or directory)
+Timed out running heap/ddt for all (21) processes
+Saved shutdown report
