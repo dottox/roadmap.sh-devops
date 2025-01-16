@@ -12,6 +12,7 @@ A simple tool to analyze Nginx logs from the command line.
     ```
     chmod +x nginx-log-analyser.sh
     ```
+    
 3. **Execute the script**  
     ```
     ./nginx-log-analyser.sh <logs-file>
