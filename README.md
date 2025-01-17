@@ -7,6 +7,6 @@ Projects of DevOps roadmap.sh
   - [Server Perfomance Stats](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/server-performance-stats): [roadmap.sh project](https://roadmap.sh/projects/server-stats)
   - [Log Archive Tool](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/log-archive-tool): [roadmap.sh project](https://roadmap.sh/projects/log-archive-tool)
   - [Nginx Log Analyser](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/nginx-log-analyser): [roadmap.sh project](https://roadmap.sh/projects/nginx-log-analyser)
-  - [Hello World Jekyll](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/hello-world-jekyll): A simple Jekyll Hello World project
+  - [Github Pages Deployment](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/github-pages-deployment): [roadmap.sh project](https://roadmap.sh/projects/github-actions-deployment-workflow)
 - [Intermediate Projects](https://github.com/dottox/roadmap.sh-devops/tree/main/intermediate-projects)
 - [Advanced Projects](https://github.com/dottox/roadmap.sh-devops/tree/main/advanced-projects)
