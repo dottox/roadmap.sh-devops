@@ -5,7 +5,7 @@ A simple tool to analyze Nginx logs from the command line.
 1. **Clone the repository**
     ```
     git clone https://github.com/dottox/roadmap.sh-devops
-    cd Beginner\ Projects/ && Nginx\ Log\ Analyser
+    cd beginner-projects/nginx-log-analyser
     ```
 
 2. **Make the script executable**

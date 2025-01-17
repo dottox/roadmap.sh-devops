@@ -8,7 +8,7 @@ A script to analyse basic server performance stats.
 1. **Clone the repository**
     ```
     git clone https://github.com/dottox/roadmap.sh-devops
-    cd Beginner\ Projects/ && Server\ Perfomance\ Stats
+    cd beginner-projects/server-performance-stats
     ```
 
 2. **Make the script executable**

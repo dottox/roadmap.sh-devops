@@ -5,7 +5,7 @@ A tool to archive logs from the CLI with the date and time.
 1. **Clone the repository**
     ```
     git clone https://github.com/dottox/roadmap.sh-devops
-    cd Beginner\ Projects/ && Log\ Archive\ Tool
+    cd beginner-projects/log-archive-tool
     ```
 
 2. **Make the script executable**
