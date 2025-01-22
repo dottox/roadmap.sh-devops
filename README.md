@@ -8,5 +8,6 @@ Projects of DevOps roadmap.sh
   - [Log Archive Tool](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/log-archive-tool) | [roadmap.sh project](https://roadmap.sh/projects/log-archive-tool)
   - [Nginx Log Analyser](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/nginx-log-analyser) | [roadmap.sh project](https://roadmap.sh/projects/nginx-log-analyser)
   - [Github Pages Deployment](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/github-pages-deployment) | [roadmap.sh project](https://roadmap.sh/projects/github-actions-deployment-workflow) | [Visit project !](https://dottox.github.io/roadmap.sh-devops/beginner-projects/github-pages-deployment/)
+  - [SSH Remote Server Setup](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/ssh-remote-server-setup) | [roadmap.sh project](https://roadmap.sh/projects/ssh-remote-server-setup)
 - [Intermediate Projects](https://github.com/dottox/roadmap.sh-devops/tree/main/intermediate-projects)
 - [Advanced Projects](https://github.com/dottox/roadmap.sh-devops/tree/main/advanced-projects)
