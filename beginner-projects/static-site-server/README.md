@@ -85,5 +85,3 @@ Restart the Fail2ban service:
     ```
     sudo systemctl restart fail2ban
     ```
-
-This project is part of [roadmap.sh](https://roadmap.sh/projects/ssh-remote-server-setup) DevOps projects.
