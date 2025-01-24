@@ -1,5 +1,5 @@
-# SSH Remote Server Setup
-A basic remote linux server and configure it to allow SSH. 
+# Static Site Server
+A basic linux server and configure it to serve a static site using Nginx. 
 
 ## Getting Started
 1. **Create a Remote Server**
@@ -8,80 +8,100 @@ Create your a Linux server using you preferred Cloud Provider.
 - Create a new Linux server (e.g., Ubuntu 20.04 LTS).
 - Note down the server's IP address.
 
-2. **Generate SSH key pairs**
-On your local machine, create the SSH key pair to access securely to the server.
-    ```
-    ssh-keygen -t rsa -b 4096 -C "your_email@example.com" 
-    ```
-
-- Name the key files to anything you want.
-- This will create 2 files: xyz (private key) and xyz.pub (public key)
-
-3. **Add the SSH key to the server**
-Use the following command to copy the public key to your server:
-- Replace user with your server's username (e.g., root).
-- Replace server-ip with your server's IP address.
-    ```
-    ssh-copy-id -i ~/.ssh/id_rsa.pub user@server-ip
-    ```
-   
-If ssh-copy-id doesn't work, you can manually copy the public key by logging in to the server using a password and editing the ~/.ssh/authorized_keys file:
-    ```
-    ssh user@server-ip
-    mkdir -p ~/.ssh
-    echo "your-public-key" >> ~/.ssh/authorized_keys
-    chmod 600 ~/.ssh/authorized_keys
-    chmod 700 ~/.ssh
-    ```
-
-4. **Configure SSH Access on Your Local Machine**
-To simplify connecting to your server, edit the SSH configuration file on your local machine:
-    ```
-    nano ~/.ssh/config
-    ```
-
-Add the following lines to the config file:
-    ```
-    Host myserver
-    HostName server-ip
-    User user
-    IdentityFile ~/.ssh/xyz
-    ```
-
-- Replace "myserver" with an alias you want to use for this server.
-- Replace "server-ip" with your server’s IP address.
-- Replace "user" with your server's username.
-  
-5. **Test SSH Connection**
-Test the SSH connection using the alias you set up:
-    ```
-    ssh myserver
-    ```
-
-6. **Optional: Install Fail2ban for Security**
-Install Fail2ban:
+2. **Install Nginx**
+Connect via SSH to your remote server and install Nginx
     ```
     sudo apt update
-    sudo apt install fail2ban
+    sudo apt install Nginx
     ```
 
-Configure Fail2ban to protect SSH by editing the configuration file:
+> Check if Nginx is running using `curl localhost`
+
+3. **Create the web files in your local host**
+Create a HTML and CSS file in your local machine. I've used this files:
     ```
-    sudo nano /etc/fail2ban/jail.local
+    mkdir web-files
+    touch index.html styles.css
     ```
 
-Add the following:
     ```
-    [sshd]
-    enabled = true
-    port = ssh
-    logpath = /var/log/auth.log
-    maxretry = 3
-    bantime = 1200
-    findtime = 600
+    index.html
+    
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Static Site Server</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="title">Static Site Server</h1>
+            <p class="description">A basic linux server and configure it to serve a static site using Nginx. </p>
+        </div>
+    </body>
+    </html>
     ```
 
-Restart the Fail2ban service:
     ```
-    sudo systemctl restart fail2ban
+    styles.css
+
+    /* Base Styles */
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    /* Container */
+    .container {
+      text-align: center;
+      max-width: 600px;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Title */
+    .title {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      color: #2c3e50;
+    }
+
+    /* Description */
+    .description {
+      font-size: 1.125rem;
+      line-height: 1.6;
+      color: #555;
+    }
     ```
+
+4. **Synchronize files using rsync**
+Using rsync, synchronize local files to the remote server.
+    ```
+    # usage: rsync origin/dir user@ip:target/dir
+    rsync -av -e "ssh -i path/to/private/key.prv" web-files/ root@ip-remote-server:/var/www/html
+    ```
+
+> -a is used to recursively syncs and preserves symbolic links, special and device files, modification times, groups, owners, and permissions.
+> -v verbose mode.
+> -e let you specify the SSH method, helpful when you need a private key to connect.
+
+Possible output using -v mode:
+    ```
+    Transfer starting: 3 files
+    ./index.html
+    ./styles.css
+    ```
+  
+> Check new files with `curl http://remote-server-ip`
+
+This project is part of [roadmap.sh](https://roadmap.sh/projects/static-site-server) DevOps projects.
