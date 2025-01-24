@@ -12,7 +12,7 @@ Create your a Linux server using you preferred Cloud Provider.
 Connect via SSH to your remote server and install Nginx
     ```
     sudo apt update
-    sudo apt install Nginx
+    sudo apt install nginx
     ```
 
 > Check if Nginx is running using `curl localhost`
