@@ -100,6 +100,9 @@ Possible output using -v mode:
     Transfer starting: 3 files
     ./index.html
     ./styles.css
+
+    sent 1266 bytes  received 70 bytes  205 bytes/sec
+    total size is 1017  speedup is 0.76
     ```
   
 > Check new files with `curl http://remote-server-ip`
