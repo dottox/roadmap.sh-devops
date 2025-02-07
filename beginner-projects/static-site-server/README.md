@@ -95,14 +95,13 @@ Using rsync, synchronize local files to the remote server.
 > -v verbose mode.
 > -e let you specify the SSH method, helpful when you need a private key to connect.
 
-Possible output using -v mode:
-    ```
+Possible output using -v mode
+
     Transfer starting: 3 files
     ./index.html
     ./styles.css
     sent 1266 bytes  received 70 bytes  205 bytes/sec
     total size is 1017  speedup is 0.76
-    ```
   
 > Check new files with `curl http://remote-server-ip`
 
