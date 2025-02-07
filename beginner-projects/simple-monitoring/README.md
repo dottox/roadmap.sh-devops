@@ -58,7 +58,7 @@ You can configure your own alert. I will configure an alert for the ram usage.
 ![Custom RAM metric](./imgs/custom-alert.png)
 
 
-3. **Scripts for: installing, testing and cleanup**  
+5. **Scripts for: installing, testing and cleanup**  
 Scripts for installing, testing and cleaning up are [here](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/simple-monitoring/scripts)
 
 
