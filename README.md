@@ -10,5 +10,6 @@ Projects of DevOps roadmap.sh
   - [Github Pages Deployment](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/github-pages-deployment) | [roadmap.sh project](https://roadmap.sh/projects/github-actions-deployment-workflow) | [Visit project !](https://dottox.github.io/roadmap.sh-devops/beginner-projects/github-pages-deployment/)
   - [SSH Remote Server Setup](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/ssh-remote-server-setup) | [roadmap.sh project](https://roadmap.sh/projects/ssh-remote-server-setup)
   - [Static Site Server](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/static-site-server) | [roadmap.sh project](https://roadmap.sh/projects/static-site-server)
+  - [Simple Monitoring](https://github.com/dottox/roadmap.sh-devops/tree/main/beginner-projects/simple-monitoring) | [roadmap.sh project](https://roadmap.sh/projects/simple-monitoring-dashboard)
 - [Intermediate Projects](https://github.com/dottox/roadmap.sh-devops/tree/main/intermediate-projects)
 - [Advanced Projects](https://github.com/dottox/roadmap.sh-devops/tree/main/advanced-projects)
