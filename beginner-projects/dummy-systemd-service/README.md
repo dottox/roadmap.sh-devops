@@ -33,6 +33,6 @@ A long-running systemd service that logs to a file.
     ```
     cat /var/log/dummy-service.log
     ```
-    ![Dummy service logs using cat](images/6-2.png)
+    ![Dummy service logs using cat](images/6-1.png)
     ![Dummy service logs using journalctl](images/6-2.png)
 This project is part of [roadmap.sh](https://roavdmap.sh/projects/log-archive-tool) DevOps projects.
