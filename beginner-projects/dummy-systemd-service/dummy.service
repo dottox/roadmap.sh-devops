@@ -1,0 +1,12 @@
+[Unit]
+Description=Dummy service to log info every 10 seconds
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/dummy
+Restart=on-failure
+User=ubuntu
+
+[Install]
+WantedBy=multi-user.target
